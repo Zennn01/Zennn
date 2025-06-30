@@ -1,201 +1,201 @@
 CustomerID,Gender,Age,Annual Income (k$),Spending Score (1-100),Cluster,Deskripsi Cluster
-1,Male,19,15,39,4,🧍 Penghasilan & belanja rendah
-2,Male,21,15,81,2,"📣 Penghasilan rendah, belanja tinggi"
-3,Female,20,16,6,4,🧍 Penghasilan & belanja rendah
-4,Female,23,16,77,2,"📣 Penghasilan rendah, belanja tinggi"
-5,Female,31,17,40,4,🧍 Penghasilan & belanja rendah
-6,Female,22,17,76,2,"📣 Penghasilan rendah, belanja tinggi"
-7,Female,35,18,6,4,🧍 Penghasilan & belanja rendah
-8,Female,23,18,94,2,"📣 Penghasilan rendah, belanja tinggi"
-9,Male,64,19,3,4,🧍 Penghasilan & belanja rendah
-10,Female,30,19,72,2,"📣 Penghasilan rendah, belanja tinggi"
-11,Male,67,19,14,4,🧍 Penghasilan & belanja rendah
-12,Female,35,19,99,2,"📣 Penghasilan rendah, belanja tinggi"
-13,Female,58,20,15,4,🧍 Penghasilan & belanja rendah
-14,Female,24,20,77,2,"📣 Penghasilan rendah, belanja tinggi"
-15,Male,37,20,13,4,🧍 Penghasilan & belanja rendah
-16,Male,22,20,79,2,"📣 Penghasilan rendah, belanja tinggi"
-17,Female,35,21,35,4,🧍 Penghasilan & belanja rendah
-18,Male,20,21,66,2,"📣 Penghasilan rendah, belanja tinggi"
-19,Male,52,23,29,4,🧍 Penghasilan & belanja rendah
-20,Female,35,23,98,2,"📣 Penghasilan rendah, belanja tinggi"
-21,Male,35,24,35,4,🧍 Penghasilan & belanja rendah
-22,Male,25,24,73,2,"📣 Penghasilan rendah, belanja tinggi"
-23,Female,46,25,5,4,🧍 Penghasilan & belanja rendah
-24,Male,31,25,73,2,"📣 Penghasilan rendah, belanja tinggi"
-25,Female,54,28,14,4,🧍 Penghasilan & belanja rendah
-26,Male,29,28,82,2,"📣 Penghasilan rendah, belanja tinggi"
-27,Female,45,28,32,4,🧍 Penghasilan & belanja rendah
-28,Male,35,28,61,2,"📣 Penghasilan rendah, belanja tinggi"
-29,Female,40,29,31,4,🧍 Penghasilan & belanja rendah
-30,Female,23,29,87,2,"📣 Penghasilan rendah, belanja tinggi"
-31,Male,60,30,4,4,🧍 Penghasilan & belanja rendah
-32,Female,21,30,73,2,"📣 Penghasilan rendah, belanja tinggi"
-33,Male,53,33,4,4,🧍 Penghasilan & belanja rendah
-34,Male,18,33,92,2,"📣 Penghasilan rendah, belanja tinggi"
-35,Female,49,33,14,4,🧍 Penghasilan & belanja rendah
-36,Female,21,33,81,2,"📣 Penghasilan rendah, belanja tinggi"
-37,Female,42,34,17,4,🧍 Penghasilan & belanja rendah
-38,Female,30,34,73,2,"📣 Penghasilan rendah, belanja tinggi"
-39,Female,36,37,26,4,🧍 Penghasilan & belanja rendah
-40,Female,20,37,75,2,"📣 Penghasilan rendah, belanja tinggi"
-41,Female,65,38,35,4,🧍 Penghasilan & belanja rendah
-42,Male,24,38,92,2,"📣 Penghasilan rendah, belanja tinggi"
-43,Male,48,39,36,4,🧍 Penghasilan & belanja rendah
+100,Male,20,61,49,0,⚖️ Rata-rata
+92,Male,18,59,41,0,⚖️ Rata-rata
+91,Female,68,59,55,0,⚖️ Rata-rata
+90,Female,50,58,46,0,⚖️ Rata-rata
+89,Female,34,58,60,0,⚖️ Rata-rata
+88,Female,22,57,55,0,⚖️ Rata-rata
+87,Female,55,57,58,0,⚖️ Rata-rata
+86,Male,48,54,46,0,⚖️ Rata-rata
+85,Female,21,54,57,0,⚖️ Rata-rata
+84,Female,46,54,44,0,⚖️ Rata-rata
+83,Male,67,54,41,0,⚖️ Rata-rata
+82,Male,38,54,55,0,⚖️ Rata-rata
+81,Male,57,54,51,0,⚖️ Rata-rata
+80,Female,49,54,42,0,⚖️ Rata-rata
+79,Female,23,54,52,0,⚖️ Rata-rata
+78,Male,40,54,48,0,⚖️ Rata-rata
+77,Female,45,54,53,0,⚖️ Rata-rata
+76,Male,26,54,54,0,⚖️ Rata-rata
+75,Male,59,54,47,0,⚖️ Rata-rata
+74,Female,60,50,56,0,⚖️ Rata-rata
+73,Female,60,50,49,0,⚖️ Rata-rata
+71,Male,70,49,55,0,⚖️ Rata-rata
+70,Female,32,48,47,0,⚖️ Rata-rata
+69,Male,19,48,59,0,⚖️ Rata-rata
+68,Female,68,48,48,0,⚖️ Rata-rata
+67,Female,43,48,50,0,⚖️ Rata-rata
+66,Male,18,48,59,0,⚖️ Rata-rata
+65,Male,63,48,51,0,⚖️ Rata-rata
+93,Male,48,60,49,0,⚖️ Rata-rata
+94,Female,40,60,40,0,⚖️ Rata-rata
+95,Female,32,60,42,0,⚖️ Rata-rata
+96,Male,24,60,52,0,⚖️ Rata-rata
+133,Female,25,72,34,0,⚖️ Rata-rata
+127,Male,43,71,35,0,⚖️ Rata-rata
+123,Female,40,69,58,0,⚖️ Rata-rata
+122,Female,38,67,40,0,⚖️ Rata-rata
+121,Male,27,67,56,0,⚖️ Rata-rata
+120,Female,50,67,57,0,⚖️ Rata-rata
+119,Female,51,67,43,0,⚖️ Rata-rata
+118,Female,49,65,59,0,⚖️ Rata-rata
+117,Female,63,65,43,0,⚖️ Rata-rata
+116,Female,19,65,50,0,⚖️ Rata-rata
+115,Female,18,65,48,0,⚖️ Rata-rata
+114,Male,19,64,46,0,⚖️ Rata-rata
+113,Female,38,64,42,0,⚖️ Rata-rata
+64,Female,54,47,59,0,⚖️ Rata-rata
+112,Female,19,63,54,0,⚖️ Rata-rata
+110,Male,66,63,48,0,⚖️ Rata-rata
+109,Male,68,63,43,0,⚖️ Rata-rata
+108,Male,54,63,46,0,⚖️ Rata-rata
+107,Female,66,63,50,0,⚖️ Rata-rata
+106,Female,21,62,42,0,⚖️ Rata-rata
+105,Male,49,62,56,0,⚖️ Rata-rata
+104,Male,26,62,55,0,⚖️ Rata-rata
+103,Male,67,62,59,0,⚖️ Rata-rata
+102,Female,49,62,48,0,⚖️ Rata-rata
+101,Female,23,62,41,0,⚖️ Rata-rata
+99,Male,48,61,42,0,⚖️ Rata-rata
+98,Female,27,60,50,0,⚖️ Rata-rata
+97,Female,47,60,47,0,⚖️ Rata-rata
+111,Male,65,63,52,0,⚖️ Rata-rata
+63,Female,67,47,52,0,⚖️ Rata-rata
+72,Female,47,49,42,0,⚖️ Rata-rata
+61,Male,70,46,56,0,⚖️ Rata-rata
+62,Male,19,46,55,0,⚖️ Rata-rata
 44,Female,31,39,61,0,⚖️ Rata-rata
-45,Female,49,39,28,4,🧍 Penghasilan & belanja rendah
-46,Female,24,39,65,2,"📣 Penghasilan rendah, belanja tinggi"
 47,Female,50,40,55,0,⚖️ Rata-rata
 48,Female,27,40,47,0,⚖️ Rata-rata
 49,Female,29,40,42,0,⚖️ Rata-rata
 50,Female,31,40,42,0,⚖️ Rata-rata
 51,Female,49,42,52,0,⚖️ Rata-rata
 52,Male,33,42,60,0,⚖️ Rata-rata
-53,Female,31,43,54,0,⚖️ Rata-rata
-54,Male,59,43,60,0,⚖️ Rata-rata
-55,Female,50,43,45,0,⚖️ Rata-rata
-56,Male,47,43,41,0,⚖️ Rata-rata
-57,Female,51,44,50,0,⚖️ Rata-rata
-58,Male,69,44,46,0,⚖️ Rata-rata
-59,Female,27,46,51,0,⚖️ Rata-rata
-60,Male,53,46,46,0,⚖️ Rata-rata
-61,Male,70,46,56,0,⚖️ Rata-rata
-62,Male,19,46,55,0,⚖️ Rata-rata
-63,Female,67,47,52,0,⚖️ Rata-rata
-64,Female,54,47,59,0,⚖️ Rata-rata
-65,Male,63,48,51,0,⚖️ Rata-rata
-66,Male,18,48,59,0,⚖️ Rata-rata
-67,Female,43,48,50,0,⚖️ Rata-rata
-68,Female,68,48,48,0,⚖️ Rata-rata
-69,Male,19,48,59,0,⚖️ Rata-rata
-70,Female,32,48,47,0,⚖️ Rata-rata
-71,Male,70,49,55,0,⚖️ Rata-rata
-72,Female,47,49,42,0,⚖️ Rata-rata
-73,Female,60,50,49,0,⚖️ Rata-rata
-74,Female,60,50,56,0,⚖️ Rata-rata
-75,Male,59,54,47,0,⚖️ Rata-rata
-76,Male,26,54,54,0,⚖️ Rata-rata
-77,Female,45,54,53,0,⚖️ Rata-rata
-78,Male,40,54,48,0,⚖️ Rata-rata
-79,Female,23,54,52,0,⚖️ Rata-rata
-80,Female,49,54,42,0,⚖️ Rata-rata
-81,Male,57,54,51,0,⚖️ Rata-rata
-82,Male,38,54,55,0,⚖️ Rata-rata
-83,Male,67,54,41,0,⚖️ Rata-rata
-84,Female,46,54,44,0,⚖️ Rata-rata
-85,Female,21,54,57,0,⚖️ Rata-rata
-86,Male,48,54,46,0,⚖️ Rata-rata
-87,Female,55,57,58,0,⚖️ Rata-rata
-88,Female,22,57,55,0,⚖️ Rata-rata
-89,Female,34,58,60,0,⚖️ Rata-rata
-90,Female,50,58,46,0,⚖️ Rata-rata
-91,Female,68,59,55,0,⚖️ Rata-rata
-92,Male,18,59,41,0,⚖️ Rata-rata
-93,Male,48,60,49,0,⚖️ Rata-rata
-94,Female,40,60,40,0,⚖️ Rata-rata
-95,Female,32,60,42,0,⚖️ Rata-rata
-96,Male,24,60,52,0,⚖️ Rata-rata
-97,Female,47,60,47,0,⚖️ Rata-rata
-98,Female,27,60,50,0,⚖️ Rata-rata
-99,Male,48,61,42,0,⚖️ Rata-rata
-100,Male,20,61,49,0,⚖️ Rata-rata
-101,Female,23,62,41,0,⚖️ Rata-rata
-102,Female,49,62,48,0,⚖️ Rata-rata
-103,Male,67,62,59,0,⚖️ Rata-rata
-104,Male,26,62,55,0,⚖️ Rata-rata
-105,Male,49,62,56,0,⚖️ Rata-rata
-106,Female,21,62,42,0,⚖️ Rata-rata
-107,Female,66,63,50,0,⚖️ Rata-rata
-108,Male,54,63,46,0,⚖️ Rata-rata
-109,Male,68,63,43,0,⚖️ Rata-rata
-110,Male,66,63,48,0,⚖️ Rata-rata
-111,Male,65,63,52,0,⚖️ Rata-rata
-112,Female,19,63,54,0,⚖️ Rata-rata
-113,Female,38,64,42,0,⚖️ Rata-rata
-114,Male,19,64,46,0,⚖️ Rata-rata
-115,Female,18,65,48,0,⚖️ Rata-rata
-116,Female,19,65,50,0,⚖️ Rata-rata
-117,Female,63,65,43,0,⚖️ Rata-rata
-118,Female,49,65,59,0,⚖️ Rata-rata
-119,Female,51,67,43,0,⚖️ Rata-rata
-120,Female,50,67,57,0,⚖️ Rata-rata
-121,Male,27,67,56,0,⚖️ Rata-rata
-122,Female,38,67,40,0,⚖️ Rata-rata
-123,Female,40,69,58,0,⚖️ Rata-rata
-124,Male,39,69,91,1,💰 Penghasilan & belanja tinggi
-125,Female,23,70,29,3,"❓ Penghasilan tinggi, belanja rendah"
-126,Female,31,70,77,1,💰 Penghasilan & belanja tinggi
-127,Male,43,71,35,0,⚖️ Rata-rata
-128,Male,40,71,95,1,💰 Penghasilan & belanja tinggi
-129,Male,59,71,11,3,"❓ Penghasilan tinggi, belanja rendah"
-130,Male,38,71,75,1,💰 Penghasilan & belanja tinggi
-131,Male,47,71,9,3,"❓ Penghasilan tinggi, belanja rendah"
-132,Male,39,71,75,1,💰 Penghasilan & belanja tinggi
-133,Female,25,72,34,0,⚖️ Rata-rata
-134,Female,31,72,71,1,💰 Penghasilan & belanja tinggi
-135,Male,20,73,5,3,"❓ Penghasilan tinggi, belanja rendah"
-136,Female,29,73,88,1,💰 Penghasilan & belanja tinggi
-137,Female,44,73,7,3,"❓ Penghasilan tinggi, belanja rendah"
-138,Male,32,73,73,1,💰 Penghasilan & belanja tinggi
-139,Male,19,74,10,3,"❓ Penghasilan tinggi, belanja rendah"
-140,Female,35,74,72,1,💰 Penghasilan & belanja tinggi
-141,Female,57,75,5,3,"❓ Penghasilan tinggi, belanja rendah"
-142,Male,32,75,93,1,💰 Penghasilan & belanja tinggi
 143,Female,28,76,40,0,⚖️ Rata-rata
-144,Female,32,76,87,1,💰 Penghasilan & belanja tinggi
-145,Male,25,77,12,3,"❓ Penghasilan tinggi, belanja rendah"
-146,Male,28,77,97,1,💰 Penghasilan & belanja tinggi
-147,Male,48,77,36,3,"❓ Penghasilan tinggi, belanja rendah"
-148,Female,32,77,74,1,💰 Penghasilan & belanja tinggi
-149,Female,34,78,22,3,"❓ Penghasilan tinggi, belanja rendah"
-150,Male,34,78,90,1,💰 Penghasilan & belanja tinggi
-151,Male,43,78,17,3,"❓ Penghasilan tinggi, belanja rendah"
-152,Male,39,78,88,1,💰 Penghasilan & belanja tinggi
-153,Female,44,78,20,3,"❓ Penghasilan tinggi, belanja rendah"
-154,Female,38,78,76,1,💰 Penghasilan & belanja tinggi
-155,Female,47,78,16,3,"❓ Penghasilan tinggi, belanja rendah"
-156,Female,27,78,89,1,💰 Penghasilan & belanja tinggi
-157,Male,37,78,1,3,"❓ Penghasilan tinggi, belanja rendah"
-158,Female,30,78,78,1,💰 Penghasilan & belanja tinggi
-159,Male,34,78,1,3,"❓ Penghasilan tinggi, belanja rendah"
-160,Female,30,78,73,1,💰 Penghasilan & belanja tinggi
-161,Female,56,79,35,3,"❓ Penghasilan tinggi, belanja rendah"
-162,Female,29,79,83,1,💰 Penghasilan & belanja tinggi
-163,Male,19,81,5,3,"❓ Penghasilan tinggi, belanja rendah"
-164,Female,31,81,93,1,💰 Penghasilan & belanja tinggi
-165,Male,50,85,26,3,"❓ Penghasilan tinggi, belanja rendah"
-166,Female,36,85,75,1,💰 Penghasilan & belanja tinggi
-167,Male,42,86,20,3,"❓ Penghasilan tinggi, belanja rendah"
-168,Female,33,86,95,1,💰 Penghasilan & belanja tinggi
-169,Female,36,87,27,3,"❓ Penghasilan tinggi, belanja rendah"
-170,Male,32,87,63,1,💰 Penghasilan & belanja tinggi
-171,Male,40,87,13,3,"❓ Penghasilan tinggi, belanja rendah"
-172,Male,28,87,75,1,💰 Penghasilan & belanja tinggi
-173,Male,36,87,10,3,"❓ Penghasilan tinggi, belanja rendah"
-174,Male,36,87,92,1,💰 Penghasilan & belanja tinggi
-175,Female,52,88,13,3,"❓ Penghasilan tinggi, belanja rendah"
-176,Female,30,88,86,1,💰 Penghasilan & belanja tinggi
-177,Male,58,88,15,3,"❓ Penghasilan tinggi, belanja rendah"
-178,Male,27,88,69,1,💰 Penghasilan & belanja tinggi
+60,Male,53,46,46,0,⚖️ Rata-rata
+53,Female,31,43,54,0,⚖️ Rata-rata
+58,Male,69,44,46,0,⚖️ Rata-rata
+57,Female,51,44,50,0,⚖️ Rata-rata
+59,Female,27,46,51,0,⚖️ Rata-rata
+55,Female,50,43,45,0,⚖️ Rata-rata
+54,Male,59,43,60,0,⚖️ Rata-rata
+56,Male,47,43,41,0,⚖️ Rata-rata
 179,Male,59,93,14,3,"❓ Penghasilan tinggi, belanja rendah"
-180,Male,35,93,90,1,💰 Penghasilan & belanja tinggi
-181,Female,37,97,32,3,"❓ Penghasilan tinggi, belanja rendah"
-182,Female,32,97,86,1,💰 Penghasilan & belanja tinggi
-183,Male,46,98,15,3,"❓ Penghasilan tinggi, belanja rendah"
-184,Female,29,98,88,1,💰 Penghasilan & belanja tinggi
-185,Female,41,99,39,3,"❓ Penghasilan tinggi, belanja rendah"
-186,Male,30,99,97,1,💰 Penghasilan & belanja tinggi
-187,Female,54,101,24,3,"❓ Penghasilan tinggi, belanja rendah"
-188,Male,28,101,68,1,💰 Penghasilan & belanja tinggi
-189,Female,41,103,17,3,"❓ Penghasilan tinggi, belanja rendah"
-190,Female,36,103,85,1,💰 Penghasilan & belanja tinggi
-191,Female,34,103,23,3,"❓ Penghasilan tinggi, belanja rendah"
-192,Female,32,103,69,1,💰 Penghasilan & belanja tinggi
-193,Male,33,113,8,3,"❓ Penghasilan tinggi, belanja rendah"
-194,Female,38,113,91,1,💰 Penghasilan & belanja tinggi
 195,Female,47,120,16,3,"❓ Penghasilan tinggi, belanja rendah"
-196,Female,35,120,79,1,💰 Penghasilan & belanja tinggi
+183,Male,46,98,15,3,"❓ Penghasilan tinggi, belanja rendah"
+185,Female,41,99,39,3,"❓ Penghasilan tinggi, belanja rendah"
+187,Female,54,101,24,3,"❓ Penghasilan tinggi, belanja rendah"
+189,Female,41,103,17,3,"❓ Penghasilan tinggi, belanja rendah"
+191,Female,34,103,23,3,"❓ Penghasilan tinggi, belanja rendah"
+193,Male,33,113,8,3,"❓ Penghasilan tinggi, belanja rendah"
+125,Female,23,70,29,3,"❓ Penghasilan tinggi, belanja rendah"
+145,Male,25,77,12,3,"❓ Penghasilan tinggi, belanja rendah"
 197,Female,45,126,28,3,"❓ Penghasilan tinggi, belanja rendah"
-198,Male,32,126,74,1,💰 Penghasilan & belanja tinggi
+129,Male,59,71,11,3,"❓ Penghasilan tinggi, belanja rendah"
+177,Male,58,88,15,3,"❓ Penghasilan tinggi, belanja rendah"
+131,Male,47,71,9,3,"❓ Penghasilan tinggi, belanja rendah"
+149,Female,34,78,22,3,"❓ Penghasilan tinggi, belanja rendah"
+135,Male,20,73,5,3,"❓ Penghasilan tinggi, belanja rendah"
+137,Female,44,73,7,3,"❓ Penghasilan tinggi, belanja rendah"
+147,Male,48,77,36,3,"❓ Penghasilan tinggi, belanja rendah"
+139,Male,19,74,10,3,"❓ Penghasilan tinggi, belanja rendah"
+141,Female,57,75,5,3,"❓ Penghasilan tinggi, belanja rendah"
+153,Female,44,78,20,3,"❓ Penghasilan tinggi, belanja rendah"
+151,Male,43,78,17,3,"❓ Penghasilan tinggi, belanja rendah"
+181,Female,37,97,32,3,"❓ Penghasilan tinggi, belanja rendah"
+159,Male,34,78,1,3,"❓ Penghasilan tinggi, belanja rendah"
+175,Female,52,88,13,3,"❓ Penghasilan tinggi, belanja rendah"
+163,Male,19,81,5,3,"❓ Penghasilan tinggi, belanja rendah"
+167,Male,42,86,20,3,"❓ Penghasilan tinggi, belanja rendah"
+161,Female,56,79,35,3,"❓ Penghasilan tinggi, belanja rendah"
+169,Female,36,87,27,3,"❓ Penghasilan tinggi, belanja rendah"
+171,Male,40,87,13,3,"❓ Penghasilan tinggi, belanja rendah"
+165,Male,50,85,26,3,"❓ Penghasilan tinggi, belanja rendah"
+157,Male,37,78,1,3,"❓ Penghasilan tinggi, belanja rendah"
+173,Male,36,87,10,3,"❓ Penghasilan tinggi, belanja rendah"
 199,Male,32,137,18,3,"❓ Penghasilan tinggi, belanja rendah"
+155,Female,47,78,16,3,"❓ Penghasilan tinggi, belanja rendah"
+148,Female,32,77,74,1,💰 Penghasilan & belanja tinggi
+152,Male,39,78,88,1,💰 Penghasilan & belanja tinggi
+160,Female,30,78,73,1,💰 Penghasilan & belanja tinggi
+198,Male,32,126,74,1,💰 Penghasilan & belanja tinggi
+150,Male,34,78,90,1,💰 Penghasilan & belanja tinggi
+156,Female,27,78,89,1,💰 Penghasilan & belanja tinggi
+162,Female,29,79,83,1,💰 Penghasilan & belanja tinggi
+146,Male,28,77,97,1,💰 Penghasilan & belanja tinggi
+158,Female,30,78,78,1,💰 Penghasilan & belanja tinggi
+178,Male,27,88,69,1,💰 Penghasilan & belanja tinggi
+154,Female,38,78,76,1,💰 Penghasilan & belanja tinggi
+166,Female,36,85,75,1,💰 Penghasilan & belanja tinggi
+196,Female,35,120,79,1,💰 Penghasilan & belanja tinggi
+194,Female,38,113,91,1,💰 Penghasilan & belanja tinggi
+168,Female,33,86,95,1,💰 Penghasilan & belanja tinggi
+192,Female,32,103,69,1,💰 Penghasilan & belanja tinggi
+190,Female,36,103,85,1,💰 Penghasilan & belanja tinggi
+170,Male,32,87,63,1,💰 Penghasilan & belanja tinggi
+188,Male,28,101,68,1,💰 Penghasilan & belanja tinggi
+186,Male,30,99,97,1,💰 Penghasilan & belanja tinggi
+172,Male,28,87,75,1,💰 Penghasilan & belanja tinggi
+184,Female,29,98,88,1,💰 Penghasilan & belanja tinggi
+182,Female,32,97,86,1,💰 Penghasilan & belanja tinggi
+180,Male,35,93,90,1,💰 Penghasilan & belanja tinggi
+174,Male,36,87,92,1,💰 Penghasilan & belanja tinggi
+164,Female,31,81,93,1,💰 Penghasilan & belanja tinggi
+176,Female,30,88,86,1,💰 Penghasilan & belanja tinggi
 200,Male,30,137,83,1,💰 Penghasilan & belanja tinggi
+142,Male,32,75,93,1,💰 Penghasilan & belanja tinggi
+144,Female,32,76,87,1,💰 Penghasilan & belanja tinggi
+124,Male,39,69,91,1,💰 Penghasilan & belanja tinggi
+128,Male,40,71,95,1,💰 Penghasilan & belanja tinggi
+130,Male,38,71,75,1,💰 Penghasilan & belanja tinggi
+126,Female,31,70,77,1,💰 Penghasilan & belanja tinggi
+134,Female,31,72,71,1,💰 Penghasilan & belanja tinggi
+136,Female,29,73,88,1,💰 Penghasilan & belanja tinggi
+138,Male,32,73,73,1,💰 Penghasilan & belanja tinggi
+140,Female,35,74,72,1,💰 Penghasilan & belanja tinggi
+132,Male,39,71,75,1,💰 Penghasilan & belanja tinggi
+18,Male,20,21,66,2,"📣 Penghasilan rendah, belanja tinggi"
+26,Male,29,28,82,2,"📣 Penghasilan rendah, belanja tinggi"
+24,Male,31,25,73,2,"📣 Penghasilan rendah, belanja tinggi"
+22,Male,25,24,73,2,"📣 Penghasilan rendah, belanja tinggi"
+20,Female,35,23,98,2,"📣 Penghasilan rendah, belanja tinggi"
+16,Male,22,20,79,2,"📣 Penghasilan rendah, belanja tinggi"
+6,Female,22,17,76,2,"📣 Penghasilan rendah, belanja tinggi"
+12,Female,35,19,99,2,"📣 Penghasilan rendah, belanja tinggi"
+10,Female,30,19,72,2,"📣 Penghasilan rendah, belanja tinggi"
+8,Female,23,18,94,2,"📣 Penghasilan rendah, belanja tinggi"
+4,Female,23,16,77,2,"📣 Penghasilan rendah, belanja tinggi"
+2,Male,21,15,81,2,"📣 Penghasilan rendah, belanja tinggi"
+14,Female,24,20,77,2,"📣 Penghasilan rendah, belanja tinggi"
+30,Female,23,29,87,2,"📣 Penghasilan rendah, belanja tinggi"
+28,Male,35,28,61,2,"📣 Penghasilan rendah, belanja tinggi"
+32,Female,21,30,73,2,"📣 Penghasilan rendah, belanja tinggi"
+46,Female,24,39,65,2,"📣 Penghasilan rendah, belanja tinggi"
+34,Male,18,33,92,2,"📣 Penghasilan rendah, belanja tinggi"
+36,Female,21,33,81,2,"📣 Penghasilan rendah, belanja tinggi"
+42,Male,24,38,92,2,"📣 Penghasilan rendah, belanja tinggi"
+38,Female,30,34,73,2,"📣 Penghasilan rendah, belanja tinggi"
+40,Female,20,37,75,2,"📣 Penghasilan rendah, belanja tinggi"
+29,Female,40,29,31,4,🧍 Penghasilan & belanja rendah
+3,Female,20,16,6,4,🧍 Penghasilan & belanja rendah
+45,Female,49,39,28,4,🧍 Penghasilan & belanja rendah
+5,Female,31,17,40,4,🧍 Penghasilan & belanja rendah
+43,Male,48,39,36,4,🧍 Penghasilan & belanja rendah
+7,Female,35,18,6,4,🧍 Penghasilan & belanja rendah
+9,Male,64,19,3,4,🧍 Penghasilan & belanja rendah
+41,Female,65,38,35,4,🧍 Penghasilan & belanja rendah
+11,Male,67,19,14,4,🧍 Penghasilan & belanja rendah
+15,Male,37,20,13,4,🧍 Penghasilan & belanja rendah
+39,Female,36,37,26,4,🧍 Penghasilan & belanja rendah
+31,Male,60,30,4,4,🧍 Penghasilan & belanja rendah
+17,Female,35,21,35,4,🧍 Penghasilan & belanja rendah
+37,Female,42,34,17,4,🧍 Penghasilan & belanja rendah
+19,Male,52,23,29,4,🧍 Penghasilan & belanja rendah
+21,Male,35,24,35,4,🧍 Penghasilan & belanja rendah
+35,Female,49,33,14,4,🧍 Penghasilan & belanja rendah
+23,Female,46,25,5,4,🧍 Penghasilan & belanja rendah
+25,Female,54,28,14,4,🧍 Penghasilan & belanja rendah
+33,Male,53,33,4,4,🧍 Penghasilan & belanja rendah
+27,Female,45,28,32,4,🧍 Penghasilan & belanja rendah
+13,Female,58,20,15,4,🧍 Penghasilan & belanja rendah
+1,Male,19,15,39,4,🧍 Penghasilan & belanja rendah
